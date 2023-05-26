@@ -157,15 +157,24 @@ footer {
   justify-content: center; */
 }
 
-footer .logo-container,
+/* footer .logo-container,
 footer .text-container,
 footer .pages,
 footer .social-media,
 footer ul li {
   display: inline-block;
-}
+} */
 
 .footer ul li {}
+
+.footer-wrapper .logo-container {
+  float: left;
+}
+
+.footer-wrapper .social-media {
+  width: 50%;
+  float: right;
+}
 
 .logo-container {
   position: relative;

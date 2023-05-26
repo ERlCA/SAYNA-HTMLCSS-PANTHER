@@ -130,11 +130,12 @@
 
 /*---- T'Challa section ----*/
 .tchalla {
-  width: 70%;
+  width: 80%;
   margin: 9rem auto 0;
 }
 
-.tchalla article {
+.tchalla .article-wrapper {
+  float: left;
   width: 54%;
 
 }

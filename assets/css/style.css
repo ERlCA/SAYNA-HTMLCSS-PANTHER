@@ -99,7 +99,8 @@ p {
 /*---- header -----*/
 header {
   width: 90%;
-  padding: .9rem 0 0;
+  padding: .9rem 0 2rem;
+  height: 3rem;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;

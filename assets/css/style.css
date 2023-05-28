@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'wakanda';
-  src: url("../fonts/WakandaFanther-JRpp7.ttf") format('truetype');
+  src: url("../fonts/WakandaForever-Regular.ttf") format('truetype');
 }
 
 :root {
@@ -166,7 +166,6 @@ footer {
 
   display: flex;
   flex-flow: row nowrap;
-  border: 1px solid #fff;
 }
 
 footer h2 {
